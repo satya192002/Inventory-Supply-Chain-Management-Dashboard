@@ -42,7 +42,9 @@ The backend database stores and processes supply chain data.
 * **Products** – stores product details such as name, category, and price
 * **Orders** – records customer orders
 * **Shipments** – tracks shipment details and delivery status
-* **Inventory** – maintains stock levels of each product
+* **stock_entries** – maintains stock levels of each product
+* **suppliers** - Details Of Suppliers
+* **
 
 #### Views
 
