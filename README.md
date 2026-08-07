@@ -159,31 +159,19 @@ inventory-supply-chain-dashboard
 
 Displays stock levels and inventory distribution.
 
-![Inventory Dashboard](screenshots/dashboard_overview.png)
+![Inventory Dashboard](dashboard/dashboard_overview.png)
 
 ### Order and Shipment Tracking
 
 Track order processing and shipment status.
 
-![Shipment Tracking](screenshots/shipment_tracking.png)
+![Shipment Tracking](dashboard/shipment_tracking.png)
 
 ### Inventory Analysis
 
 Analyze demand and monitor stock availability.
 
-![Inventory Analysis](screenshots/inventory_analysis.png)
-
----
-
-## Future Improvements
-
-Possible future enhancements include:
-
-* Demand forecasting using machine learning
-* Supplier performance analysis
-* Automated restocking alerts
-* Cloud deployment for real-time access
-* Integration with enterprise systems
+![Inventory Analysis](dashboard/inventory_analysis.png)
 
 ---
 
