@@ -160,6 +160,7 @@ inventory-supply-chain-dashboard
 Displays stock levels and inventory distribution.
 
 ![Inventory Dashboard](dashboard/dashboard_overview.png)
+📄 [View Full PDF](docs/report.pdf)
 
 ### Order and Shipment Tracking
 
