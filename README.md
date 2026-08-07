@@ -160,17 +160,12 @@ inventory-supply-chain-dashboard
 Displays stock levels and inventory distribution.
 
 [![PDF Preview](docs/pdf-preview.png)](docs/report.pdf)
-### Order and Shipment Tracking
 
-Track order processing and shipment status.
-
-![Shipment Tracking](dashboard/shipment_tracking.png)
-
-### Inventory Analysis
+### Operations on Stock requirements
 
 Analyze demand and monitor stock availability.
+[![PDF Preview](docs/pdf-preview1.png)](docs1/report.pdf)
 
-![Inventory Analysis](dashboard/inventory_analysis.png)
 
 ---
 
